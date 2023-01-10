@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramim000&label=Profile%20views&color=0e75b6&style=flat" alt="ramim000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramim000" alt="ramim000" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/hridoy_ramim" target="blank"><img src="https://img.shields.io/twitter/follow/hridoy_ramim?logo=twitter&style=for-the-badge" alt="hridoy_ramim" /></a> </p>
 
@@ -16,7 +16,7 @@
 - 💬 Ask me about **any question on C&C++**
 
 - ⚡ Fun fact **I'm increasing my skill day by day on programing**
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramim000" alt="ramim000" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hridoy_ramim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hridoy_ramim" height="30" width="40" /></a>
